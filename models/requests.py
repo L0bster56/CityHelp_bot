@@ -14,8 +14,9 @@ class Request(Base):
     category_id = Column(Integer,ForeignKey('categories.id', ondelete="CASCADE"),nullable=False)
     text = Column(String(1024), nullable=False)
     address = Column(String(512), nullable=False)
-    status = Column(String(255), nullable=False)
+    status = Column(String(255), nullable=False, default='new')
     created_at = Column(DateTime, default=datetime.now)
+
 
 
     user = relationship("User", back_populates="requests", lazy="selectin")
