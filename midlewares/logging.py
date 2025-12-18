@@ -9,7 +9,7 @@ from aiogram.types import Update
 
 from config import async_session
 
-from managers.user import UserManager
+from manager.user import UserManager
 from utils.logging import get_logger
 
 
