@@ -28,6 +28,11 @@ class RequestManager:
         result = await self.db.execute(stmt)
         return result.scalars().all()
 
+    async def user_list(self, user_id:int):
+        stmt = select(Request).where(Request.user_id == user_id)
+        result = await self.db.execute(stmt)
+        return result.scalars().all()
+
 
     async def update_category(self, request_id: int, category_id: int):
         stmt = update(Request).where(Request.id == request_id).values(category_id=category_id)

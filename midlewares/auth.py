@@ -25,7 +25,7 @@ class AuthMiddleware(BaseMiddleware):
             user = await manager.get_or_create(
                 user_id=from_user.id,
                 full_name=from_user.full_name,
-                phone=None,
             )
             data["user"] = user
             return await handler(event, data)
+

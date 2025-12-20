@@ -12,7 +12,7 @@ class User(Base):
     id = Column(BigInteger, primary_key=True)
     full_name = Column(String(320), nullable=False)
     language = Column(String(2), default='ru')
-    phone = Column(String(20), nullable=True)
+    phone = Column(String(150), default=' ')
     created_at = Column(DateTime, default=datetime.now)
     role = Column(String(215), nullable=False, default='user')
 

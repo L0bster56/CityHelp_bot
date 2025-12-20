@@ -9,11 +9,10 @@ class UserManager:
         self.db = db
 
 
-    async def create(self, user_id:int,full_name:str,phone:str):
+    async def create(self, user_id:int,full_name:str):
         stmt = insert(User).values(
-            user_id=user_id,
+            id=user_id,
             full_name=full_name,
-            phone=phone
         ).returning(User)
         result = await self.db.execute(stmt)
         await self.db.commit()
@@ -40,13 +39,19 @@ class UserManager:
         await self.db.execute(stmt)
         await self.db.commit()
 
+    async def update_phone(self, user_id: int, phone: str):
+        stmt = update(User).where(User.id == user_id).values(phone=phone)
+        await self.db.execute(stmt)
+        await self.db.commit()
+
     async def delete(self, user_id:int):
         stmt = delete(User).where(User.id == user_id)
         await self.db.execute(stmt)
         await self.db.commit()
 
-    async def get_or_create(self, user_id:int,full_name:str,phone:str):
+    async def get_or_create(self, user_id:int,full_name:str):
         user = await self.get(user_id)
         if user is None:
-            user = await self.create(user_id,full_name,phone)
+            user = await self.create(user_id,full_name)
         return user
+

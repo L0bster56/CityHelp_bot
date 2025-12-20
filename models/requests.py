@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from sqlalchemy import Column, Integer, String, ForeignKey, DateTime
+from sqlalchemy import Column, Integer, String, ForeignKey, DateTime, BigInteger
 from sqlalchemy.orm import relationship
 
 from models.base import Base
@@ -10,7 +10,7 @@ class Request(Base):
     __tablename__ = 'requests'
 
     id = Column(Integer, primary_key=True, autoincrement=True)
-    user_id = Column(Integer,ForeignKey('users.id', ondelete="CASCADE"),nullable=False)
+    user_id = Column(BigInteger,ForeignKey('users.id', ondelete="CASCADE"),nullable=False)
     category_id = Column(Integer,ForeignKey('categories.id', ondelete="CASCADE"),nullable=False)
     text = Column(String(1024), nullable=False)
     address = Column(String(512), nullable=False)
