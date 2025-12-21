@@ -12,7 +12,7 @@ def get_main_kb(role: str):
 
     elif role == 'moderator':
         builder.button(text="🔍 Новые заявки",callback_data="new_req")
-        builder.button(text="📊 Статистика", callback_data="state_req")
+        builder.button(text="📊 Все заявки", callback_data="all_req")
 
     elif role == 'executor':
         builder.button(text="🛠 Мои задачи", callback_data="my_tasks")

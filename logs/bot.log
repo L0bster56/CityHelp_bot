@@ -5095,3 +5095,1125 @@ TypeError: can only concatenate str (not "datetime.datetime") to str
 2025-12-20 21:16:15,284 - aiogram.event - INFO - Update id=846056427 is handled. Duration 503 ms by bot id=8459808785
 2025-12-20 21:25:13,527 - aiogram.dispatcher - INFO - Polling stopped
 2025-12-20 21:25:13,789 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 11:54:39,193 - bot - INFO - MESSAGE - 478.1513214111328
+2025-12-21 11:54:39,193 - aiogram.event - INFO - Update id=846056428 is handled. Duration 481 ms by bot id=8459808785
+2025-12-21 11:54:41,391 - bot - INFO - Callback - 138.38911056518555
+2025-12-21 11:54:41,391 - aiogram.event - INFO - Update id=846056429 is handled. Duration 140 ms by bot id=8459808785
+2025-12-21 11:55:02,545 - bot - INFO - MESSAGE - 134.5059871673584
+2025-12-21 11:55:02,545 - aiogram.event - INFO - Update id=846056430 is handled. Duration 135 ms by bot id=8459808785
+2025-12-21 11:55:09,569 - bot - INFO - MESSAGE - 284.1305732727051
+2025-12-21 11:55:09,570 - aiogram.event - INFO - Update id=846056431 is handled. Duration 285 ms by bot id=8459808785
+2025-12-21 11:55:25,829 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 11:55:25,829 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 11:55:25,829 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 11:55:26,091 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 11:55:45,966 - bot - INFO - MESSAGE - 440.335750579834
+2025-12-21 11:55:45,967 - aiogram.event - INFO - Update id=846056432 is handled. Duration 441 ms by bot id=8459808785
+2025-12-21 11:55:47,017 - bot - INFO - Callback - 126.26814842224121
+2025-12-21 11:55:47,017 - aiogram.event - INFO - Update id=846056433 is handled. Duration 126 ms by bot id=8459808785
+2025-12-21 11:55:53,226 - bot - INFO - MESSAGE - 152.85253524780273
+2025-12-21 11:55:53,226 - aiogram.event - INFO - Update id=846056434 is handled. Duration 153 ms by bot id=8459808785
+2025-12-21 11:55:59,514 - bot - INFO - MESSAGE - 234.42649841308594
+2025-12-21 11:55:59,514 - aiogram.event - INFO - Update id=846056435 is handled. Duration 235 ms by bot id=8459808785
+2025-12-21 11:56:05,145 - bot - INFO - Callback - 347.7194309234619
+2025-12-21 11:56:05,145 - aiogram.event - INFO - Update id=846056436 is handled. Duration 348 ms by bot id=8459808785
+2025-12-21 11:56:06,784 - bot - INFO - Callback - 229.4788360595703
+2025-12-21 11:56:06,785 - aiogram.event - INFO - Update id=846056437 is handled. Duration 230 ms by bot id=8459808785
+2025-12-21 11:56:47,491 - bot - INFO - MESSAGE - 141.6316032409668
+2025-12-21 11:56:47,491 - aiogram.event - INFO - Update id=846056438 is handled. Duration 142 ms by bot id=8459808785
+2025-12-21 11:56:53,549 - bot - INFO - MESSAGE - 127.82669067382812
+2025-12-21 11:56:53,549 - aiogram.event - INFO - Update id=846056439 is handled. Duration 128 ms by bot id=8459808785
+2025-12-21 11:56:56,882 - bot - INFO - Callback - 127.34079360961914
+2025-12-21 11:56:56,882 - aiogram.event - INFO - Update id=846056440 is handled. Duration 129 ms by bot id=8459808785
+2025-12-21 11:57:12,578 - bot - INFO - MESSAGE - 125.60820579528809
+2025-12-21 11:57:12,578 - aiogram.event - INFO - Update id=846056441 is handled. Duration 127 ms by bot id=8459808785
+2025-12-21 11:57:18,022 - bot - INFO - MESSAGE - 135.26535034179688
+2025-12-21 11:57:18,022 - aiogram.event - INFO - Update id=846056442 is handled. Duration 137 ms by bot id=8459808785
+2025-12-21 11:57:20,203 - bot - INFO - Callback - 259.00816917419434
+2025-12-21 11:57:20,204 - aiogram.event - INFO - Update id=846056443 is handled. Duration 260 ms by bot id=8459808785
+2025-12-21 11:57:22,474 - bot - INFO - Callback - 133.06260108947754
+2025-12-21 11:57:22,475 - aiogram.event - INFO - Update id=846056444 is handled. Duration 133 ms by bot id=8459808785
+2025-12-21 12:20:26,658 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 12:20:26,915 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 12:20:34,482 - bot - INFO - MESSAGE - 442.54398345947266
+2025-12-21 12:20:34,482 - aiogram.event - INFO - Update id=846056445 is handled. Duration 444 ms by bot id=8459808785
+2025-12-21 12:20:36,295 - bot - INFO - Callback - 6.91986083984375
+2025-12-21 12:20:36,295 - aiogram.event - INFO - Update id=846056446 is not handled. Duration 7 ms by bot id=8459808785
+2025-12-21 12:22:06,828 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 12:22:06,829 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 12:22:06,829 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 12:22:07,093 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 12:22:11,748 - bot - INFO - Callback - 118.8056468963623
+2025-12-21 12:22:11,748 - aiogram.event - INFO - Update id=846056447 is not handled. Duration 120 ms by bot id=8459808785
+2025-12-21 12:22:19,558 - bot - INFO - MESSAGE - 355.47709465026855
+2025-12-21 12:22:19,558 - aiogram.event - INFO - Update id=846056448 is handled. Duration 356 ms by bot id=8459808785
+2025-12-21 12:22:20,357 - bot - INFO - Callback - 5.696773529052734
+2025-12-21 12:22:20,357 - aiogram.event - INFO - Update id=846056449 is not handled. Duration 6 ms by bot id=8459808785
+2025-12-21 12:23:41,177 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 12:23:41,442 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 12:23:49,741 - bot - INFO - MESSAGE - 489.5029067993164
+2025-12-21 12:23:49,742 - aiogram.event - INFO - Update id=846056450 is handled. Duration 491 ms by bot id=8459808785
+2025-12-21 12:23:50,782 - bot - INFO - Callback - 7.094383239746094
+2025-12-21 12:23:50,782 - aiogram.event - INFO - Update id=846056451 is not handled. Duration 7 ms by bot id=8459808785
+2025-12-21 12:24:31,176 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 12:24:31,428 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 12:24:36,034 - bot - INFO - Callback - 124.27353858947754
+2025-12-21 12:24:36,034 - aiogram.event - INFO - Update id=846056452 is not handled. Duration 126 ms by bot id=8459808785
+2025-12-21 12:25:46,577 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 12:25:46,833 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 12:25:51,847 - bot - INFO - Callback - 465.9559726715088
+2025-12-21 12:25:51,847 - aiogram.event - INFO - Update id=846056453 is handled. Duration 467 ms by bot id=8459808785
+2025-12-21 12:25:53,511 - bot - INFO - Callback - 280.9169292449951
+2025-12-21 12:25:53,511 - aiogram.event - INFO - Update id=846056454 is handled. Duration 281 ms by bot id=8459808785
+2025-12-21 12:25:55,183 - bot - INFO - Callback - 7.742643356323242
+2025-12-21 12:25:55,183 - aiogram.event - INFO - Update id=846056455 is not handled. Duration 8 ms by bot id=8459808785
+2025-12-21 12:26:06,825 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 12:26:06,826 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 12:26:06,826 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 12:26:07,089 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 12:26:12,028 - bot - INFO - Callback - 445.40929794311523
+2025-12-21 12:26:12,028 - aiogram.event - INFO - Update id=846056456 is handled. Duration 447 ms by bot id=8459808785
+2025-12-21 12:26:13,575 - bot - INFO - Callback - 227.370023727417
+2025-12-21 12:26:13,575 - aiogram.event - INFO - Update id=846056457 is handled. Duration 228 ms by bot id=8459808785
+2025-12-21 12:26:14,611 - bot - INFO - Callback - 123.03853034973145
+2025-12-21 12:26:14,611 - aiogram.event - INFO - Update id=846056458 is handled. Duration 123 ms by bot id=8459808785
+2025-12-21 12:57:18,129 - bot - INFO - MESSAGE - 639.7502422332764
+2025-12-21 12:57:18,130 - aiogram.event - INFO - Update id=846056459 is handled. Duration 641 ms by bot id=8459808785
+2025-12-21 12:57:20,451 - bot - INFO - Callback - 131.8068504333496
+2025-12-21 12:57:20,451 - aiogram.event - INFO - Update id=846056460 is handled. Duration 134 ms by bot id=8459808785
+2025-12-21 12:57:21,759 - bot - INFO - Callback - 140.31505584716797
+2025-12-21 12:57:21,759 - aiogram.event - INFO - Update id=846056461 is handled. Duration 141 ms by bot id=8459808785
+2025-12-21 12:58:55,373 - bot - INFO - MESSAGE - 129.7016143798828
+2025-12-21 12:58:55,374 - aiogram.event - INFO - Update id=846056462 is handled. Duration 130 ms by bot id=8459808785
+2025-12-21 12:59:03,093 - bot - INFO - Callback - 125.83637237548828
+2025-12-21 12:59:03,093 - aiogram.event - INFO - Update id=846056463 is handled. Duration 126 ms by bot id=8459808785
+2025-12-21 12:59:05,016 - bot - INFO - Callback - 138.66114616394043
+2025-12-21 12:59:05,016 - aiogram.event - INFO - Update id=846056464 is handled. Duration 139 ms by bot id=8459808785
+2025-12-21 12:59:24,800 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 12:59:24,801 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 12:59:24,801 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 12:59:25,065 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 12:59:29,631 - bot - INFO - Callback - 451.02906227111816
+2025-12-21 12:59:29,631 - aiogram.event - INFO - Update id=846056465 is handled. Duration 452 ms by bot id=8459808785
+2025-12-21 12:59:30,927 - bot - INFO - Callback - 126.62553787231445
+2025-12-21 12:59:30,927 - aiogram.event - INFO - Update id=846056466 is handled. Duration 127 ms by bot id=8459808785
+2025-12-21 12:59:38,103 - bot - INFO - MESSAGE - 126.04999542236328
+2025-12-21 12:59:38,103 - aiogram.event - INFO - Update id=846056467 is handled. Duration 126 ms by bot id=8459808785
+2025-12-21 12:59:42,993 - bot - INFO - Callback - 420.03393173217773
+2025-12-21 12:59:42,993 - aiogram.event - INFO - Update id=846056468 is handled. Duration 420 ms by bot id=8459808785
+2025-12-21 12:59:51,000 - bot - INFO - Callback - 149.6713161468506
+2025-12-21 12:59:51,000 - aiogram.event - INFO - Update id=846056469 is handled. Duration 150 ms by bot id=8459808785
+2025-12-21 12:59:57,083 - bot - INFO - Callback - 134.78827476501465
+2025-12-21 12:59:57,083 - aiogram.event - INFO - Update id=846056470 is handled. Duration 135 ms by bot id=8459808785
+2025-12-21 13:00:03,741 - bot - INFO - Callback - 135.44535636901855
+2025-12-21 13:00:03,741 - aiogram.event - INFO - Update id=846056471 is handled. Duration 136 ms by bot id=8459808785
+2025-12-21 13:01:08,224 - bot - INFO - MESSAGE - 125.61941146850586
+2025-12-21 13:01:08,224 - aiogram.event - INFO - Update id=846056472 is handled. Duration 126 ms by bot id=8459808785
+2025-12-21 13:01:10,799 - bot - INFO - Callback - 247.1766471862793
+2025-12-21 13:01:10,799 - aiogram.event - INFO - Update id=846056473 is handled. Duration 247 ms by bot id=8459808785
+2025-12-21 13:01:20,649 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 13:01:20,906 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 13:01:25,537 - bot - INFO - MESSAGE - 456.73274993896484
+2025-12-21 13:01:25,537 - aiogram.event - INFO - Update id=846056474 is handled. Duration 459 ms by bot id=8459808785
+2025-12-21 13:01:26,755 - bot - INFO - Callback - 133.3026885986328
+2025-12-21 13:01:26,755 - aiogram.event - INFO - Update id=846056475 is handled. Duration 134 ms by bot id=8459808785
+2025-12-21 13:01:28,093 - bot - INFO - Callback - 129.4260025024414
+2025-12-21 13:01:28,093 - aiogram.event - INFO - Update id=846056476 is handled. Duration 130 ms by bot id=8459808785
+2025-12-21 13:01:36,429 - bot - INFO - MESSAGE - 136.69967651367188
+2025-12-21 13:01:36,430 - aiogram.event - INFO - Update id=846056477 is handled. Duration 137 ms by bot id=8459808785
+2025-12-21 13:01:38,103 - bot - INFO - Callback - 380.6142807006836
+2025-12-21 13:01:38,104 - aiogram.event - INFO - Update id=846056478 is handled. Duration 381 ms by bot id=8459808785
+2025-12-21 13:01:39,370 - bot - INFO - Callback - 187.90102005004883
+2025-12-21 13:01:39,370 - aiogram.event - INFO - Update id=846056479 is handled. Duration 188 ms by bot id=8459808785
+2025-12-21 13:01:42,196 - bot - INFO - Callback - 144.37460899353027
+2025-12-21 13:01:42,196 - aiogram.event - INFO - Update id=846056480 is handled. Duration 145 ms by bot id=8459808785
+2025-12-21 13:02:58,450 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 13:02:58,710 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 13:02:58,711 - aiogram.event - INFO - Update id=846056481 is not handled. Duration 258 ms by bot id=8459808785
+2025-12-21 13:03:07,079 - bot - INFO - Callback - 449.42212104797363
+2025-12-21 13:03:07,080 - aiogram.event - INFO - Update id=846056482 is handled. Duration 451 ms by bot id=8459808785
+2025-12-21 13:03:14,527 - bot - INFO - MESSAGE - 133.82792472839355
+2025-12-21 13:03:14,528 - aiogram.event - INFO - Update id=846056483 is handled. Duration 134 ms by bot id=8459808785
+2025-12-21 13:03:16,726 - bot - INFO - Callback - 338.2554054260254
+2025-12-21 13:03:16,727 - aiogram.event - INFO - Update id=846056484 is handled. Duration 338 ms by bot id=8459808785
+2025-12-21 13:03:18,973 - bot - INFO - Callback - 162.85324096679688
+2025-12-21 13:03:18,973 - aiogram.event - INFO - Update id=846056485 is handled. Duration 163 ms by bot id=8459808785
+2025-12-21 13:03:20,466 - bot - INFO - Callback - 144.1187858581543
+2025-12-21 13:03:20,466 - aiogram.event - INFO - Update id=846056486 is handled. Duration 144 ms by bot id=8459808785
+2025-12-21 13:03:21,825 - bot - INFO - Callback - 130.36775588989258
+2025-12-21 13:03:21,825 - aiogram.event - INFO - Update id=846056487 is handled. Duration 130 ms by bot id=8459808785
+2025-12-21 13:03:28,411 - bot - INFO - MESSAGE - 134.9661350250244
+2025-12-21 13:03:28,411 - aiogram.event - INFO - Update id=846056488 is handled. Duration 135 ms by bot id=8459808785
+2025-12-21 13:03:29,593 - bot - INFO - Callback - 245.79334259033203
+2025-12-21 13:03:29,593 - aiogram.event - INFO - Update id=846056489 is handled. Duration 246 ms by bot id=8459808785
+2025-12-21 13:03:30,662 - bot - INFO - Callback - 132.12013244628906
+2025-12-21 13:03:30,662 - aiogram.event - INFO - Update id=846056490 is handled. Duration 132 ms by bot id=8459808785
+2025-12-21 13:03:32,457 - bot - INFO - Callback - 129.68921661376953
+2025-12-21 13:03:32,457 - aiogram.event - INFO - Update id=846056491 is handled. Duration 130 ms by bot id=8459808785
+2025-12-21 13:05:26,801 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 13:05:26,802 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 13:05:26,802 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 13:05:27,065 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 13:05:45,731 - bot - INFO - MESSAGE - 549.3288040161133
+2025-12-21 13:05:45,732 - aiogram.event - INFO - Update id=846056492 is handled. Duration 552 ms by bot id=8459808785
+2025-12-21 13:05:46,777 - bot - INFO - Callback - 137.2849941253662
+2025-12-21 13:05:46,777 - aiogram.event - INFO - Update id=846056493 is handled. Duration 137 ms by bot id=8459808785
+2025-12-21 13:05:49,731 - bot - INFO - Callback - 327.5256156921387
+2025-12-21 13:05:49,731 - aiogram.event - INFO - Update id=846056494 is handled. Duration 328 ms by bot id=8459808785
+2025-12-21 13:05:51,632 - bot - INFO - Callback - 138.17214965820312
+2025-12-21 13:05:51,632 - aiogram.event - INFO - Update id=846056495 is handled. Duration 138 ms by bot id=8459808785
+2025-12-21 13:05:52,395 - bot - INFO - Callback - 124.31216239929199
+2025-12-21 13:05:52,395 - aiogram.event - INFO - Update id=846056496 is handled. Duration 124 ms by bot id=8459808785
+2025-12-21 13:05:53,094 - bot - INFO - Callback - 133.7289810180664
+2025-12-21 13:05:53,094 - aiogram.event - INFO - Update id=846056497 is handled. Duration 134 ms by bot id=8459808785
+2025-12-21 13:05:53,822 - bot - INFO - Callback - 132.07674026489258
+2025-12-21 13:05:53,822 - aiogram.event - INFO - Update id=846056498 is handled. Duration 132 ms by bot id=8459808785
+2025-12-21 13:05:54,662 - bot - INFO - Callback - 139.15562629699707
+2025-12-21 13:05:54,662 - aiogram.event - INFO - Update id=846056499 is handled. Duration 139 ms by bot id=8459808785
+2025-12-21 13:07:25,415 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 13:07:25,677 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 13:08:43,644 - bot - INFO - MESSAGE - 545.6085205078125
+2025-12-21 13:08:43,645 - aiogram.event - INFO - Update id=846056500 is handled. Duration 549 ms by bot id=8459808785
+2025-12-21 13:08:43,646 - bot - INFO - MESSAGE - 541.4855480194092
+2025-12-21 13:08:43,647 - aiogram.event - INFO - Update id=846056501 is handled. Duration 542 ms by bot id=8459808785
+2025-12-21 13:09:00,223 - bot - INFO - Callback - 168.02263259887695
+2025-12-21 13:09:00,224 - aiogram.event - INFO - Update id=846056502 is handled. Duration 168 ms by bot id=8459808785
+2025-12-21 13:09:09,669 - bot - INFO - MESSAGE - 148.33998680114746
+2025-12-21 13:09:09,669 - aiogram.event - INFO - Update id=846056503 is handled. Duration 150 ms by bot id=8459808785
+2025-12-21 13:09:14,482 - bot - INFO - MESSAGE - 200.24871826171875
+2025-12-21 13:09:14,483 - aiogram.event - INFO - Update id=846056504 is handled. Duration 201 ms by bot id=8459808785
+2025-12-21 13:09:18,309 - bot - INFO - Callback - 353.47986221313477
+2025-12-21 13:09:18,310 - aiogram.event - INFO - Update id=846056505 is handled. Duration 354 ms by bot id=8459808785
+2025-12-21 13:09:20,132 - bot - INFO - Callback - 254.35161590576172
+2025-12-21 13:09:20,132 - aiogram.event - INFO - Update id=846056506 is handled. Duration 255 ms by bot id=8459808785
+2025-12-21 13:09:24,380 - bot - INFO - Callback - 131.97779655456543
+2025-12-21 13:09:24,380 - aiogram.event - INFO - Update id=846056507 is handled. Duration 132 ms by bot id=8459808785
+2025-12-21 13:09:27,232 - bot - INFO - Callback - 174.79419708251953
+2025-12-21 13:09:27,233 - aiogram.event - INFO - Update id=846056508 is handled. Duration 176 ms by bot id=8459808785
+2025-12-21 13:09:28,680 - bot - INFO - Callback - 137.70818710327148
+2025-12-21 13:09:28,681 - aiogram.event - INFO - Update id=846056509 is handled. Duration 139 ms by bot id=8459808785
+2025-12-21 13:09:29,598 - bot - INFO - Callback - 150.50554275512695
+2025-12-21 13:09:29,599 - aiogram.event - INFO - Update id=846056510 is handled. Duration 152 ms by bot id=8459808785
+2025-12-21 13:09:56,946 - bot - INFO - Callback - 131.68954849243164
+2025-12-21 13:09:56,947 - aiogram.event - INFO - Update id=846056511 is handled. Duration 133 ms by bot id=8459808785
+2025-12-21 13:20:21,061 - bot - INFO - Callback - 164.8578643798828
+2025-12-21 13:20:21,061 - aiogram.event - INFO - Update id=846056512 is handled. Duration 165 ms by bot id=8459808785
+2025-12-21 13:20:26,584 - bot - INFO - MESSAGE - 138.54336738586426
+2025-12-21 13:20:26,585 - aiogram.event - INFO - Update id=846056513 is handled. Duration 139 ms by bot id=8459808785
+2025-12-21 13:20:32,721 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 13:20:32,993 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 13:20:32,996 - aiogram.event - INFO - Update id=846056514 is not handled. Duration 269 ms by bot id=8459808785
+2025-12-21 13:20:37,456 - bot - INFO - MESSAGE - 490.0081157684326
+2025-12-21 13:20:37,456 - aiogram.event - INFO - Update id=846056515 is handled. Duration 490 ms by bot id=8459808785
+2025-12-21 13:20:37,544 - bot - INFO - Callback - 580.9674263000488
+2025-12-21 13:20:37,544 - aiogram.event - INFO - Update id=846056514 is handled. Duration 582 ms by bot id=8459808785
+2025-12-21 13:20:48,170 - bot - INFO - MESSAGE - 140.1500701904297
+2025-12-21 13:20:48,171 - aiogram.event - INFO - Update id=846056516 is handled. Duration 141 ms by bot id=8459808785
+2025-12-21 13:20:57,758 - bot - INFO - Callback - 138.0012035369873
+2025-12-21 13:20:57,758 - aiogram.event - INFO - Update id=846056517 is handled. Duration 139 ms by bot id=8459808785
+2025-12-21 13:21:10,765 - bot - INFO - MESSAGE - 144.4406509399414
+2025-12-21 13:21:10,766 - aiogram.event - INFO - Update id=846056518 is handled. Duration 146 ms by bot id=8459808785
+2025-12-21 13:21:17,345 - bot - INFO - Callback - 270.3888416290283
+2025-12-21 13:21:17,345 - aiogram.event - INFO - Update id=846056519 is handled. Duration 272 ms by bot id=8459808785
+2025-12-21 13:21:23,940 - bot - INFO - MESSAGE - 211.45343780517578
+2025-12-21 13:21:23,940 - aiogram.event - INFO - Update id=846056520 is handled. Duration 211 ms by bot id=8459808785
+2025-12-21 13:21:27,638 - bot - INFO - Callback - 13.078927993774414
+2025-12-21 13:21:27,638 - aiogram.event - INFO - Update id=846056521 is not handled. Duration 14 ms by bot id=8459808785
+2025-12-21 13:23:08,301 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 13:23:08,312 - bot - INFO - Callback - 8.96596908569336
+2025-12-21 13:23:08,312 - aiogram.event - INFO - Update id=846056522 is not handled. Duration 9 ms by bot id=8459808785
+2025-12-21 13:23:08,570 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 13:23:22,998 - bot - INFO - MESSAGE - 487.5376224517822
+2025-12-21 13:23:22,998 - aiogram.event - INFO - Update id=846056523 is handled. Duration 489 ms by bot id=8459808785
+2025-12-21 13:23:23,674 - bot - INFO - Callback - 8.46719741821289
+2025-12-21 13:23:23,674 - aiogram.event - INFO - Update id=846056524 is not handled. Duration 9 ms by bot id=8459808785
+2025-12-21 13:24:04,067 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 13:24:04,332 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 13:24:09,386 - bot - INFO - Callback - 682.0907592773438
+2025-12-21 13:24:09,386 - aiogram.event - INFO - Update id=846056525 is handled. Duration 683 ms by bot id=8459808785
+2025-12-21 14:32:20,839 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 14:32:21,105 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 14:54:06,712 - bot - INFO - MESSAGE - 447.07655906677246
+2025-12-21 14:54:06,712 - aiogram.event - INFO - Update id=846056526 is handled. Duration 448 ms by bot id=8459808785
+2025-12-21 14:54:09,099 - bot - INFO - Callback - 257.33256340026855
+2025-12-21 14:54:09,099 - aiogram.event - INFO - Update id=846056527 is handled. Duration 258 ms by bot id=8459808785
+2025-12-21 14:54:10,731 - bot - INFO - Callback - 10.174989700317383
+2025-12-21 14:54:10,732 - aiogram.event - INFO - Update id=846056528 is not handled. Duration 10 ms by bot id=8459808785
+2025-12-21 14:55:39,799 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 14:55:39,800 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 14:55:39,800 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 14:55:40,064 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 14:57:13,004 - bot - INFO - Callback - 509.2635154724121
+2025-12-21 14:57:13,004 - aiogram.event - INFO - Update id=846056529 is handled. Duration 512 ms by bot id=8459808785
+2025-12-21 14:57:13,032 - bot - INFO - MESSAGE - 532.7162742614746
+2025-12-21 14:57:13,033 - aiogram.event - INFO - Update id=846056530 is handled. Duration 533 ms by bot id=8459808785
+2025-12-21 14:57:24,728 - bot - INFO - Callback - 145.95913887023926
+2025-12-21 14:57:24,728 - aiogram.event - INFO - Update id=846056531 is handled. Duration 146 ms by bot id=8459808785
+2025-12-21 14:57:26,497 - bot - INFO - Callback - 147.29666709899902
+2025-12-21 14:57:26,498 - aiogram.event - INFO - Update id=846056532 is handled. Duration 148 ms by bot id=8459808785
+2025-12-21 14:57:29,689 - bot - INFO - MESSAGE - 145.65801620483398
+2025-12-21 14:57:29,689 - aiogram.event - INFO - Update id=846056533 is handled. Duration 146 ms by bot id=8459808785
+2025-12-21 14:57:31,806 - bot - INFO - Callback - 142.51112937927246
+2025-12-21 14:57:31,806 - aiogram.event - INFO - Update id=846056534 is handled. Duration 143 ms by bot id=8459808785
+2025-12-21 14:57:37,474 - bot - INFO - Callback - 8.728265762329102
+2025-12-21 14:57:37,474 - aiogram.event - INFO - Update id=846056535 is not handled. Duration 9 ms by bot id=8459808785
+2025-12-21 14:59:18,451 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 14:59:18,709 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:01:05,056 - bot - INFO - Callback - 664.499044418335
+2025-12-21 15:01:05,057 - aiogram.event - INFO - Update id=846056536 is handled. Duration 666 ms by bot id=8459808785
+2025-12-21 15:01:08,593 - bot - INFO - Callback - 171.90265655517578
+2025-12-21 15:01:08,593 - aiogram.event - INFO - Update id=846056537 is handled. Duration 172 ms by bot id=8459808785
+2025-12-21 15:01:10,990 - aiogram.event - INFO - Update id=846056538 is not handled. Duration 116 ms by bot id=8459808785
+2025-12-21 15:01:10,991 - aiogram.event - ERROR - Cause exception while process update id=846056538 by bot id=8459808785
+TelegramBadRequest: Telegram server says - Bad Request: message can't be edited
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\midlewares\auth.py", line 30, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\routes\moder.py", line 74, in status_hendler
+    await message.edit_text(text, reply_markup=req_status_edit())
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message can't be edited
+2025-12-21 15:02:07,800 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:02:07,801 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 15:02:07,801 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 15:02:08,066 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:02:13,304 - bot - INFO - Callback - 470.8254337310791
+2025-12-21 15:02:13,304 - aiogram.event - INFO - Update id=846056539 is handled. Duration 472 ms by bot id=8459808785
+2025-12-21 15:02:20,503 - bot - INFO - MESSAGE - 294.96288299560547
+2025-12-21 15:02:20,503 - aiogram.event - INFO - Update id=846056540 is handled. Duration 295 ms by bot id=8459808785
+2025-12-21 15:04:04,864 - bot - INFO - MESSAGE - 127.57706642150879
+2025-12-21 15:04:04,864 - aiogram.event - INFO - Update id=846056541 is handled. Duration 128 ms by bot id=8459808785
+2025-12-21 15:04:06,409 - bot - INFO - Callback - 146.53873443603516
+2025-12-21 15:04:06,409 - aiogram.event - INFO - Update id=846056542 is handled. Duration 147 ms by bot id=8459808785
+2025-12-21 15:08:35,808 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:08:35,809 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 15:08:35,809 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 15:08:36,073 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:08:42,260 - bot - INFO - MESSAGE - 447.3865032196045
+2025-12-21 15:08:42,261 - aiogram.event - INFO - Update id=846056543 is handled. Duration 449 ms by bot id=8459808785
+2025-12-21 15:08:44,935 - bot - INFO - Callback - 229.87794876098633
+2025-12-21 15:08:44,935 - aiogram.event - INFO - Update id=846056544 is handled. Duration 230 ms by bot id=8459808785
+2025-12-21 15:08:48,670 - bot - INFO - Callback - 179.962158203125
+2025-12-21 15:08:48,671 - aiogram.event - INFO - Update id=846056545 is handled. Duration 180 ms by bot id=8459808785
+2025-12-21 15:08:52,199 - aiogram.event - INFO - Update id=846056546 is not handled. Duration 147 ms by bot id=8459808785
+2025-12-21 15:08:52,199 - aiogram.event - ERROR - Cause exception while process update id=846056546 by bot id=8459808785
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\midlewares\auth.py", line 30, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\routes\moder.py", line 40, in show_new_requests
+    await cb.message.edit_text(text, reply_markup=req_status_edit())
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-12-21 15:08:55,247 - bot - INFO - Callback - 128.309965133667
+2025-12-21 15:08:55,247 - aiogram.event - INFO - Update id=846056547 is handled. Duration 128 ms by bot id=8459808785
+2025-12-21 15:09:00,864 - bot - INFO - MESSAGE - 145.72763442993164
+2025-12-21 15:09:00,864 - aiogram.event - INFO - Update id=846056548 is handled. Duration 146 ms by bot id=8459808785
+2025-12-21 15:09:22,867 - bot - INFO - Callback - 134.54318046569824
+2025-12-21 15:09:22,867 - aiogram.event - INFO - Update id=846056549 is handled. Duration 135 ms by bot id=8459808785
+2025-12-21 15:12:41,618 - bot - INFO - MESSAGE - 136.63554191589355
+2025-12-21 15:12:41,618 - aiogram.event - INFO - Update id=846056550 is handled. Duration 137 ms by bot id=8459808785
+2025-12-21 15:12:44,784 - bot - INFO - Callback - 191.0107135772705
+2025-12-21 15:12:44,784 - aiogram.event - INFO - Update id=846056551 is handled. Duration 191 ms by bot id=8459808785
+2025-12-21 15:12:48,857 - bot - INFO - Callback - 178.4677505493164
+2025-12-21 15:12:48,857 - aiogram.event - INFO - Update id=846056552 is handled. Duration 179 ms by bot id=8459808785
+2025-12-21 15:12:55,000 - bot - INFO - Callback - 204.09083366394043
+2025-12-21 15:12:55,001 - aiogram.event - INFO - Update id=846056553 is handled. Duration 205 ms by bot id=8459808785
+2025-12-21 15:13:00,066 - bot - INFO - MESSAGE - 146.7149257659912
+2025-12-21 15:13:00,066 - aiogram.event - INFO - Update id=846056554 is handled. Duration 147 ms by bot id=8459808785
+2025-12-21 15:13:10,021 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:13:10,287 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:13:18,607 - bot - INFO - MESSAGE - 455.2772045135498
+2025-12-21 15:13:18,607 - aiogram.event - INFO - Update id=846056555 is handled. Duration 456 ms by bot id=8459808785
+2025-12-21 15:13:20,362 - bot - INFO - Callback - 225.9821891784668
+2025-12-21 15:13:20,363 - aiogram.event - INFO - Update id=846056556 is handled. Duration 226 ms by bot id=8459808785
+2025-12-21 15:13:22,143 - bot - INFO - Callback - 180.54747581481934
+2025-12-21 15:13:22,143 - aiogram.event - INFO - Update id=846056557 is handled. Duration 181 ms by bot id=8459808785
+2025-12-21 15:13:45,807 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:13:45,808 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 15:13:45,808 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 15:13:46,072 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:13:52,377 - bot - INFO - MESSAGE - 451.1847496032715
+2025-12-21 15:13:52,377 - aiogram.event - INFO - Update id=846056558 is handled. Duration 453 ms by bot id=8459808785
+2025-12-21 15:13:54,336 - bot - INFO - Callback - 231.56261444091797
+2025-12-21 15:13:54,336 - aiogram.event - INFO - Update id=846056559 is handled. Duration 232 ms by bot id=8459808785
+2025-12-21 15:13:54,844 - bot - INFO - Callback - 10.004281997680664
+2025-12-21 15:13:54,844 - aiogram.event - INFO - Update id=846056560 is not handled. Duration 10 ms by bot id=8459808785
+2025-12-21 15:15:09,800 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:15:09,801 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 15:15:09,801 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 15:15:10,052 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:15:15,149 - bot - INFO - Callback - 469.06089782714844
+2025-12-21 15:15:15,149 - aiogram.event - INFO - Update id=846056561 is handled. Duration 479 ms by bot id=8459808785
+2025-12-21 15:15:18,836 - bot - INFO - Callback - 358.3035469055176
+2025-12-21 15:15:18,836 - aiogram.event - INFO - Update id=846056562 is handled. Duration 358 ms by bot id=8459808785
+2025-12-21 15:15:19,519 - bot - INFO - Callback - 190.43302536010742
+2025-12-21 15:15:19,519 - aiogram.event - INFO - Update id=846056563 is handled. Duration 190 ms by bot id=8459808785
+2025-12-21 15:15:20,240 - bot - INFO - Callback - 139.0695571899414
+2025-12-21 15:15:20,240 - aiogram.event - INFO - Update id=846056564 is handled. Duration 139 ms by bot id=8459808785
+2025-12-21 15:16:27,790 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:16:28,058 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:16:28,059 - aiogram.event - INFO - Update id=846056565 is not handled. Duration 267 ms by bot id=8459808785
+2025-12-21 15:16:33,406 - bot - INFO - Callback - 963.2067680358887
+2025-12-21 15:16:33,406 - aiogram.event - INFO - Update id=846056566 is handled. Duration 965 ms by bot id=8459808785
+2025-12-21 15:16:34,639 - bot - INFO - Callback - 187.61634826660156
+2025-12-21 15:16:34,639 - aiogram.event - INFO - Update id=846056567 is handled. Duration 188 ms by bot id=8459808785
+2025-12-21 15:16:35,938 - bot - INFO - Callback - 189.45074081420898
+2025-12-21 15:16:35,939 - aiogram.event - INFO - Update id=846056568 is handled. Duration 190 ms by bot id=8459808785
+2025-12-21 15:16:36,893 - bot - INFO - Callback - 208.47535133361816
+2025-12-21 15:16:36,893 - aiogram.event - INFO - Update id=846056569 is handled. Duration 209 ms by bot id=8459808785
+2025-12-21 15:17:06,257 - bot - INFO - Callback - 143.16844940185547
+2025-12-21 15:17:06,258 - aiogram.event - INFO - Update id=846056570 is handled. Duration 145 ms by bot id=8459808785
+2025-12-21 15:17:16,264 - bot - INFO - MESSAGE - 149.87730979919434
+2025-12-21 15:17:16,265 - aiogram.event - INFO - Update id=846056571 is handled. Duration 151 ms by bot id=8459808785
+2025-12-21 15:17:19,004 - bot - INFO - Callback - 249.48525428771973
+2025-12-21 15:17:19,005 - aiogram.event - INFO - Update id=846056572 is handled. Duration 251 ms by bot id=8459808785
+2025-12-21 15:17:23,513 - bot - INFO - MESSAGE - 132.16686248779297
+2025-12-21 15:17:23,514 - aiogram.event - INFO - Update id=846056573 is handled. Duration 133 ms by bot id=8459808785
+2025-12-21 15:17:25,339 - bot - INFO - Callback - 142.9457664489746
+2025-12-21 15:17:25,339 - aiogram.event - INFO - Update id=846056574 is handled. Duration 143 ms by bot id=8459808785
+2025-12-21 15:17:26,552 - bot - INFO - Callback - 13.76652717590332
+2025-12-21 15:17:26,552 - aiogram.event - INFO - Update id=846056575 is not handled. Duration 14 ms by bot id=8459808785
+2025-12-21 15:18:57,456 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:18:57,716 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:19:02,426 - bot - INFO - Callback - 453.4926414489746
+2025-12-21 15:19:02,426 - aiogram.event - INFO - Update id=846056576 is handled. Duration 455 ms by bot id=8459808785
+2025-12-21 15:20:12,691 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:20:12,955 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:21:04,730 - bot - INFO - Callback - 462.11814880371094
+2025-12-21 15:21:04,731 - aiogram.event - INFO - Update id=846056577 is handled. Duration 466 ms by bot id=8459808785
+2025-12-21 15:22:48,804 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:22:48,806 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 15:22:48,807 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 15:22:49,071 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:22:53,696 - bot - INFO - Callback - 467.58079528808594
+2025-12-21 15:22:53,697 - aiogram.event - INFO - Update id=846056578 is handled. Duration 469 ms by bot id=8459808785
+2025-12-21 15:23:03,323 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:23:03,597 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:23:09,278 - bot - INFO - Callback - 533.8461399078369
+2025-12-21 15:23:09,278 - aiogram.event - INFO - Update id=846056579 is handled. Duration 535 ms by bot id=8459808785
+2025-12-21 15:23:15,438 - bot - INFO - Callback - 133.41569900512695
+2025-12-21 15:23:15,438 - aiogram.event - INFO - Update id=846056580 is handled. Duration 134 ms by bot id=8459808785
+2025-12-21 15:25:35,814 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:25:35,833 - aiogram.event - INFO - Update id=846056581 is not handled. Duration 14 ms by bot id=8459808785
+2025-12-21 15:25:35,834 - aiogram.event - ERROR - Cause exception while process update id=846056581 by bot id=8459808785
+ValueError: invalid literal for int() with base 10: '/start'
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\midlewares\auth.py", line 30, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\routes\executor.py", line 54, in req_work
+    for r in requests:
+             ^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '/start'
+2025-12-21 15:25:36,081 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:25:40,612 - bot - INFO - MESSAGE - 501.4176368713379
+2025-12-21 15:25:40,612 - aiogram.event - INFO - Update id=846056582 is handled. Duration 502 ms by bot id=8459808785
+2025-12-21 15:25:40,632 - bot - INFO - MESSAGE - 524.4019031524658
+2025-12-21 15:25:40,632 - aiogram.event - INFO - Update id=846056581 is handled. Duration 525 ms by bot id=8459808785
+2025-12-21 15:25:42,795 - bot - INFO - Callback - 159.70945358276367
+2025-12-21 15:25:42,795 - aiogram.event - INFO - Update id=846056583 is handled. Duration 160 ms by bot id=8459808785
+2025-12-21 15:26:02,848 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:26:03,114 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:26:08,118 - bot - INFO - MESSAGE - 450.836181640625
+2025-12-21 15:26:08,118 - aiogram.event - INFO - Update id=846056584 is handled. Duration 452 ms by bot id=8459808785
+2025-12-21 15:26:09,397 - bot - INFO - Callback - 255.6934356689453
+2025-12-21 15:26:09,397 - aiogram.event - INFO - Update id=846056585 is handled. Duration 256 ms by bot id=8459808785
+2025-12-21 15:26:14,961 - bot - INFO - MESSAGE - 185.3923797607422
+2025-12-21 15:26:14,961 - aiogram.event - INFO - Update id=846056586 is handled. Duration 186 ms by bot id=8459808785
+2025-12-21 15:26:38,808 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:26:38,811 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 15:26:38,812 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8459808785)
+2025-12-21 15:26:39,075 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:26:51,459 - bot - INFO - MESSAGE - 436.6874694824219
+2025-12-21 15:26:51,459 - aiogram.event - INFO - Update id=846056587 is handled. Duration 438 ms by bot id=8459808785
+2025-12-21 15:26:52,647 - bot - INFO - Callback - 226.5005111694336
+2025-12-21 15:26:52,647 - aiogram.event - INFO - Update id=846056588 is handled. Duration 227 ms by bot id=8459808785
+2025-12-21 15:26:54,667 - aiogram.event - INFO - Update id=846056589 is not handled. Duration 35 ms by bot id=8459808785
+2025-12-21 15:26:54,668 - aiogram.event - ERROR - Cause exception while process update id=846056589 by bot id=8459808785
+IntegrityError: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.UniqueViolationError'>: повтор€ющеес€ значение ключа нарушает ограничение уникальности "reports_request_id_key"
+DETAIL:   люч "(request_id)=(1)" уже существует.
+[SQL: INSERT INTO reports (request_id, text, address, status, created_at, date_end) VALUES ($1::INTEGER, $2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::TIMESTAMP WITHOUT TIME ZONE, $6::TIMESTAMP WITHOUT TIME ZONE) RETURNING reports.id, reports.request_id, reports.text, reports.address, reports.status, reports.created_at, reports.date_end]
+[parameters: (1, 'дайте денег', 'мой дом', 'done', datetime.datetime(2025, 12, 21, 11, 56, 4, 807205), datetime.datetime(2025, 12, 21, 15, 26, 54, 644151))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 550, in _prepare_and_execute
+    self._rows = deque(await prepared_stmt.fetch(*parameters))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 176, in fetch
+    data = await self.__bind_execute(args, 0, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 267, in __bind_execute
+    data, status, _ = await self.__do_execute(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+        lambda protocol: protocol.bind_execute(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            self._state, args, '', limit, True, timeout))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 256, in __do_execute
+    return await executor(protocol)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg\\protocol\\protocol.pyx", line 206, in bind_execute
+asyncpg.exceptions.UniqueViolationError: повтор€ющеес€ значение ключа нарушает ограничение уникальности "reports_request_id_key"
+DETAIL:   люч "(request_id)=(1)" уже существует.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 585, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 563, in _prepare_and_execute
+    self._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 513, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 797, in _handle_exception
+    raise translated_error from error
+sqlalchemy.dialects.postgresql.asyncpg.AsyncAdapt_asyncpg_dbapi.IntegrityError: <class 'asyncpg.exceptions.UniqueViolationError'>: повтор€ющеес€ значение ключа нарушает ограничение уникальности "reports_request_id_key"
+DETAIL:   люч "(request_id)=(1)" уже существует.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\midlewares\auth.py", line 30, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\routes\executor.py", line 73, in req_work
+    await rep.create(
+    ...<5 lines>...
+    )
+  File "D:\SS Sanjar\python\CityHelp_bot\manager\reports.py", line 29, in create
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\orm\bulk_persistence.py", line 1306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 585, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 563, in _prepare_and_execute
+    self._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 513, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 797, in _handle_exception
+    raise translated_error from error
+sqlalchemy.exc.IntegrityError: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.UniqueViolationError'>: повтор€ющеес€ значение ключа нарушает ограничение уникальности "reports_request_id_key"
+DETAIL:   люч "(request_id)=(1)" уже существует.
+[SQL: INSERT INTO reports (request_id, text, address, status, created_at, date_end) VALUES ($1::INTEGER, $2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::TIMESTAMP WITHOUT TIME ZONE, $6::TIMESTAMP WITHOUT TIME ZONE) RETURNING reports.id, reports.request_id, reports.text, reports.address, reports.status, reports.created_at, reports.date_end]
+[parameters: (1, 'дайте денег', 'мой дом', 'done', datetime.datetime(2025, 12, 21, 11, 56, 4, 807205), datetime.datetime(2025, 12, 21, 15, 26, 54, 644151))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-21 15:33:18,388 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:33:18,647 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:33:27,234 - bot - INFO - MESSAGE - 575.2792358398438
+2025-12-21 15:33:27,234 - aiogram.event - INFO - Update id=846056590 is handled. Duration 578 ms by bot id=8459808785
+2025-12-21 15:33:29,093 - bot - INFO - Callback - 390.6407356262207
+2025-12-21 15:33:29,094 - aiogram.event - INFO - Update id=846056591 is handled. Duration 391 ms by bot id=8459808785
+2025-12-21 15:33:32,304 - bot - INFO - MESSAGE - 202.2988796234131
+2025-12-21 15:33:32,304 - aiogram.event - INFO - Update id=846056592 is handled. Duration 202 ms by bot id=8459808785
+2025-12-21 15:34:22,608 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:34:22,875 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:34:30,777 - bot - INFO - MESSAGE - 478.5630702972412
+2025-12-21 15:34:30,777 - aiogram.event - INFO - Update id=846056593 is handled. Duration 480 ms by bot id=8459808785
+2025-12-21 15:34:32,316 - bot - INFO - Callback - 240.95845222473145
+2025-12-21 15:34:32,317 - aiogram.event - INFO - Update id=846056594 is handled. Duration 241 ms by bot id=8459808785
+2025-12-21 15:34:34,778 - bot - INFO - MESSAGE - 162.3830795288086
+2025-12-21 15:34:34,779 - aiogram.event - INFO - Update id=846056595 is handled. Duration 163 ms by bot id=8459808785
+2025-12-21 15:34:41,318 - bot - INFO - Callback - 156.03899955749512
+2025-12-21 15:34:41,319 - aiogram.event - INFO - Update id=846056596 is handled. Duration 156 ms by bot id=8459808785
+2025-12-21 15:34:51,493 - bot - INFO - Callback - 127.58111953735352
+2025-12-21 15:34:51,493 - aiogram.event - INFO - Update id=846056597 is handled. Duration 128 ms by bot id=8459808785
+2025-12-21 15:34:52,326 - bot - INFO - Callback - 148.70858192443848
+2025-12-21 15:34:52,326 - aiogram.event - INFO - Update id=846056598 is handled. Duration 150 ms by bot id=8459808785
+2025-12-21 15:34:56,586 - bot - INFO - MESSAGE - 208.9982032775879
+2025-12-21 15:34:56,587 - aiogram.event - INFO - Update id=846056599 is handled. Duration 209 ms by bot id=8459808785
+2025-12-21 15:34:58,994 - bot - INFO - Callback - 133.48960876464844
+2025-12-21 15:34:58,994 - aiogram.event - INFO - Update id=846056600 is handled. Duration 134 ms by bot id=8459808785
+2025-12-21 15:37:00,127 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:37:00,391 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:39:34,541 - aiogram.event - INFO - Update id=846056602 is not handled. Duration 473 ms by bot id=8459808785
+2025-12-21 15:39:34,542 - aiogram.event - ERROR - Cause exception while process update id=846056602 by bot id=8459808785
+TelegramForbiddenError: Telegram server says - Forbidden: bot was blocked by the user
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\midlewares\auth.py", line 30, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\routes\menu.py", line 21, in cmd_start
+    await message.answer(
+    ...<2 lines>...
+    )
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "D:\SS Sanjar\python\CityHelp_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 128, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot was blocked by the user
+2025-12-21 15:39:34,563 - bot - INFO - MESSAGE - 499.4783401489258
+2025-12-21 15:39:34,563 - aiogram.event - INFO - Update id=846056601 is handled. Duration 502 ms by bot id=8459808785
+2025-12-21 15:40:04,922 - bot - INFO - MESSAGE - 500.90622901916504
+2025-12-21 15:40:04,923 - aiogram.event - INFO - Update id=846056603 is handled. Duration 502 ms by bot id=8459808785
+2025-12-21 15:40:39,107 - bot - INFO - Callback - 148.26655387878418
+2025-12-21 15:40:39,108 - aiogram.event - INFO - Update id=846056604 is handled. Duration 150 ms by bot id=8459808785
+2025-12-21 15:40:41,585 - bot - INFO - MESSAGE - 176.82719230651855
+2025-12-21 15:40:41,585 - aiogram.event - INFO - Update id=846056605 is handled. Duration 178 ms by bot id=8459808785
+2025-12-21 15:40:43,821 - bot - INFO - Callback - 461.184024810791
+2025-12-21 15:40:43,822 - aiogram.event - INFO - Update id=846056606 is handled. Duration 461 ms by bot id=8459808785
+2025-12-21 15:40:49,521 - bot - INFO - MESSAGE - 146.55041694641113
+2025-12-21 15:40:49,521 - aiogram.event - INFO - Update id=846056607 is handled. Duration 147 ms by bot id=8459808785
+2025-12-21 15:40:51,658 - bot - INFO - Callback - 161.64398193359375
+2025-12-21 15:40:51,658 - aiogram.event - INFO - Update id=846056608 is handled. Duration 163 ms by bot id=8459808785
+2025-12-21 15:40:52,994 - bot - INFO - Callback - 146.34084701538086
+2025-12-21 15:40:52,995 - aiogram.event - INFO - Update id=846056609 is handled. Duration 148 ms by bot id=8459808785
+2025-12-21 15:40:54,331 - bot - INFO - Callback - 178.04217338562012
+2025-12-21 15:40:54,332 - aiogram.event - INFO - Update id=846056610 is handled. Duration 179 ms by bot id=8459808785
+2025-12-21 15:41:08,181 - bot - INFO - Callback - 159.21831130981445
+2025-12-21 15:41:08,181 - aiogram.event - INFO - Update id=846056611 is handled. Duration 161 ms by bot id=8459808785
+2025-12-21 15:41:09,376 - bot - INFO - Callback - 134.5524787902832
+2025-12-21 15:41:09,376 - aiogram.event - INFO - Update id=846056612 is handled. Duration 136 ms by bot id=8459808785
+2025-12-21 15:41:10,472 - bot - INFO - Callback - 139.6160125732422
+2025-12-21 15:41:10,472 - aiogram.event - INFO - Update id=846056613 is handled. Duration 140 ms by bot id=8459808785
+2025-12-21 15:41:11,775 - bot - INFO - Callback - 134.39512252807617
+2025-12-21 15:41:11,775 - aiogram.event - INFO - Update id=846056614 is handled. Duration 136 ms by bot id=8459808785
+2025-12-21 15:41:12,782 - bot - INFO - Callback - 146.19708061218262
+2025-12-21 15:41:12,783 - aiogram.event - INFO - Update id=846056615 is handled. Duration 148 ms by bot id=8459808785
+2025-12-21 15:41:16,148 - bot - INFO - Callback - 151.31449699401855
+2025-12-21 15:41:16,149 - aiogram.event - INFO - Update id=846056616 is handled. Duration 153 ms by bot id=8459808785
+2025-12-21 15:41:17,323 - bot - INFO - Callback - 142.20213890075684
+2025-12-21 15:41:17,324 - aiogram.event - INFO - Update id=846056617 is handled. Duration 144 ms by bot id=8459808785
+2025-12-21 15:41:22,574 - bot - INFO - MESSAGE - 134.43756103515625
+2025-12-21 15:41:22,574 - aiogram.event - INFO - Update id=846056618 is handled. Duration 136 ms by bot id=8459808785
+2025-12-21 15:41:24,648 - bot - INFO - Callback - 252.6707649230957
+2025-12-21 15:41:24,649 - aiogram.event - INFO - Update id=846056619 is handled. Duration 253 ms by bot id=8459808785
+2025-12-21 15:41:29,554 - bot - INFO - MESSAGE - 138.65065574645996
+2025-12-21 15:41:29,554 - aiogram.event - INFO - Update id=846056620 is handled. Duration 139 ms by bot id=8459808785
+2025-12-21 15:41:31,764 - bot - INFO - Callback - 133.71562957763672
+2025-12-21 15:41:31,764 - aiogram.event - INFO - Update id=846056621 is handled. Duration 134 ms by bot id=8459808785
+2025-12-21 15:41:33,393 - bot - INFO - MESSAGE - 236.47499084472656
+2025-12-21 15:41:33,393 - aiogram.event - INFO - Update id=846056622 is handled. Duration 237 ms by bot id=8459808785
+2025-12-21 15:41:34,408 - bot - INFO - Callback - 117.53654479980469
+2025-12-21 15:41:34,409 - aiogram.event - INFO - Update id=846056623 is handled. Duration 118 ms by bot id=8459808785
+2025-12-21 15:41:42,094 - bot - INFO - MESSAGE - 208.1758975982666
+2025-12-21 15:41:42,094 - aiogram.event - INFO - Update id=846056624 is handled. Duration 209 ms by bot id=8459808785
+2025-12-21 15:41:45,508 - bot - INFO - MESSAGE - 138.7479305267334
+2025-12-21 15:41:45,509 - aiogram.event - INFO - Update id=846056625 is handled. Duration 139 ms by bot id=8459808785
+2025-12-21 15:41:47,675 - bot - INFO - Callback - 269.5958614349365
+2025-12-21 15:41:47,675 - aiogram.event - INFO - Update id=846056626 is handled. Duration 270 ms by bot id=8459808785
+2025-12-21 15:41:50,313 - bot - INFO - Callback - 180.80878257751465
+2025-12-21 15:41:50,314 - aiogram.event - INFO - Update id=846056627 is handled. Duration 181 ms by bot id=8459808785
+2025-12-21 15:41:57,035 - bot - INFO - Callback - 169.67511177062988
+2025-12-21 15:41:57,036 - aiogram.event - INFO - Update id=846056628 is handled. Duration 171 ms by bot id=8459808785
+2025-12-21 15:41:59,424 - bot - INFO - Callback - 147.79973030090332
+2025-12-21 15:41:59,425 - aiogram.event - INFO - Update id=846056629 is handled. Duration 149 ms by bot id=8459808785
+2025-12-21 15:42:09,974 - bot - INFO - Callback - 126.67393684387207
+2025-12-21 15:42:09,975 - aiogram.event - INFO - Update id=846056630 is handled. Duration 128 ms by bot id=8459808785
+2025-12-21 15:42:23,257 - bot - INFO - Callback - 200.42967796325684
+2025-12-21 15:42:23,258 - aiogram.event - INFO - Update id=846056631 is handled. Duration 202 ms by bot id=8459808785
+2025-12-21 15:42:24,609 - bot - INFO - Callback - 148.1306552886963
+2025-12-21 15:42:24,609 - aiogram.event - INFO - Update id=846056632 is handled. Duration 150 ms by bot id=8459808785
+2025-12-21 15:42:32,015 - bot - INFO - Callback - 157.55772590637207
+2025-12-21 15:42:32,015 - aiogram.event - INFO - Update id=846056633 is handled. Duration 159 ms by bot id=8459808785
+2025-12-21 15:42:34,071 - bot - INFO - Callback - 172.49798774719238
+2025-12-21 15:42:34,071 - aiogram.event - INFO - Update id=846056634 is handled. Duration 174 ms by bot id=8459808785
+2025-12-21 15:42:38,597 - bot - INFO - MESSAGE - 137.41374015808105
+2025-12-21 15:42:38,598 - aiogram.event - INFO - Update id=846056635 is handled. Duration 139 ms by bot id=8459808785
+2025-12-21 15:42:50,897 - bot - INFO - Callback - 168.55669021606445
+2025-12-21 15:42:50,897 - aiogram.event - INFO - Update id=846056636 is handled. Duration 170 ms by bot id=8459808785
+2025-12-21 15:43:24,768 - bot - INFO - Callback - 160.96830368041992
+2025-12-21 15:43:24,768 - aiogram.event - INFO - Update id=846056637 is handled. Duration 163 ms by bot id=8459808785
+2025-12-21 15:43:26,397 - bot - INFO - Callback - 151.3965129852295
+2025-12-21 15:43:26,398 - aiogram.event - INFO - Update id=846056638 is handled. Duration 153 ms by bot id=8459808785
+2025-12-21 15:43:28,067 - bot - INFO - Callback - 141.54291152954102
+2025-12-21 15:43:28,067 - aiogram.event - INFO - Update id=846056639 is handled. Duration 143 ms by bot id=8459808785
+2025-12-21 15:43:29,058 - bot - INFO - Callback - 137.89963722229004
+2025-12-21 15:43:29,059 - aiogram.event - INFO - Update id=846056640 is handled. Duration 139 ms by bot id=8459808785
+2025-12-21 15:43:33,129 - bot - INFO - MESSAGE - 136.69490814208984
+2025-12-21 15:43:33,129 - aiogram.event - INFO - Update id=846056641 is handled. Duration 138 ms by bot id=8459808785
+2025-12-21 15:44:33,587 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-21 15:44:33,848 - aiogram.dispatcher - INFO - Polling stopped for bot @TG_Bot_5665bot id=8459808785 - 'TG_Bot_5665'
+2025-12-21 15:44:38,533 - bot - INFO - Callback - 544.0936088562012
+2025-12-21 15:44:38,534 - aiogram.event - INFO - Update id=846056642 is handled. Duration 547 ms by bot id=8459808785
+2025-12-21 15:44:40,870 - bot - INFO - Callback - 244.3084716796875
+2025-12-21 15:44:40,871 - aiogram.event - INFO - Update id=846056643 is handled. Duration 245 ms by bot id=8459808785
+2025-12-21 15:44:42,594 - bot - INFO - Callback - 142.70710945129395
+2025-12-21 15:44:42,595 - aiogram.event - INFO - Update id=846056644 is handled. Duration 143 ms by bot id=8459808785
+2025-12-21 15:44:45,966 - bot - INFO - MESSAGE - 146.7111110687256
+2025-12-21 15:44:45,967 - aiogram.event - INFO - Update id=846056645 is handled. Duration 148 ms by bot id=8459808785
+2025-12-21 15:44:48,819 - bot - INFO - Callback - 171.10180854797363
+2025-12-21 15:44:48,819 - aiogram.event - INFO - Update id=846056646 is handled. Duration 173 ms by bot id=8459808785
+2025-12-21 15:44:50,040 - bot - INFO - Callback - 157.74226188659668
+2025-12-21 15:44:50,041 - aiogram.event - INFO - Update id=846056647 is handled. Duration 159 ms by bot id=8459808785
+2025-12-21 15:44:56,323 - bot - INFO - MESSAGE - 127.5336742401123
+2025-12-21 15:44:56,323 - aiogram.event - INFO - Update id=846056648 is handled. Duration 128 ms by bot id=8459808785
+2025-12-21 15:45:03,950 - bot - INFO - MESSAGE - 139.88041877746582
+2025-12-21 15:45:03,951 - aiogram.event - INFO - Update id=846056649 is handled. Duration 141 ms by bot id=8459808785
+2025-12-21 15:45:06,194 - bot - INFO - Callback - 148.94866943359375
+2025-12-21 15:45:06,194 - aiogram.event - INFO - Update id=846056650 is handled. Duration 149 ms by bot id=8459808785
+2025-12-21 15:45:09,791 - bot - INFO - Callback - 133.3000659942627
+2025-12-21 15:45:09,791 - aiogram.event - INFO - Update id=846056651 is handled. Duration 134 ms by bot id=8459808785
+2025-12-21 15:45:10,870 - bot - INFO - Callback - 154.25539016723633
+2025-12-21 15:45:10,870 - aiogram.event - INFO - Update id=846056652 is handled. Duration 155 ms by bot id=8459808785
+2025-12-21 15:45:16,300 - bot - INFO - MESSAGE - 175.42099952697754
+2025-12-21 15:45:16,300 - aiogram.event - INFO - Update id=846056653 is handled. Duration 176 ms by bot id=8459808785
+2025-12-21 15:45:18,026 - bot - INFO - Callback - 193.50695610046387
+2025-12-21 15:45:18,026 - aiogram.event - INFO - Update id=846056654 is handled. Duration 195 ms by bot id=8459808785
+2025-12-21 15:45:19,611 - bot - INFO - Callback - 245.64695358276367
+2025-12-21 15:45:19,612 - aiogram.event - INFO - Update id=846056655 is handled. Duration 246 ms by bot id=8459808785
+2025-12-21 15:45:21,307 - bot - INFO - Callback - 141.46113395690918
+2025-12-21 15:45:21,308 - aiogram.event - INFO - Update id=846056656 is handled. Duration 142 ms by bot id=8459808785
